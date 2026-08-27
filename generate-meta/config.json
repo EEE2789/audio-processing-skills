@@ -1,0 +1,65 @@
+{
+  "platforms": [
+    {
+      "name": "知乎",
+      "title_max": 40,
+      "desc_max": 300,
+      "title_prefix": "",
+      "desc_prefix": "",
+      "desc_suffix": "#比特币军长 #军长 #比特币走势 #比特币走势图 #比特币价格 #比特币合约玩法 #比特币美元 #比特币平台 #币圈交流群 #币圈大盘回调 #以太坊"
+    },
+    {
+      "name": "微博",
+      "title_max": 30,
+      "desc_max": 200,
+      "title_prefix": "",
+      "desc_prefix": "",
+      "desc_suffix": " #比特币涨# #比特币btc# #比特币行情分析# #比特币价格#"
+    },
+    {
+      "name": "油管简体",
+      "title_max": 100,
+      "desc_max": 500,
+      "title_prefix": "",
+      "desc_prefix": "今天比特币走势怎么样，比特币预测情况？\n\n",
+      "desc_suffix": "\n\n最新观点分享在【比特币军长】频道，马上免费加入：https://t.me/junzhangbtc"
+    },
+    {
+      "name": "油管繁体",
+      "title_max": 100,
+      "desc_max": 500,
+      "title_prefix": "",
+      "desc_prefix": "今天比特幣走勢怎麼樣，比特幣預測情況？\n\n",
+      "desc_suffix": "\n\n最新觀點分享在【比特幣軍長】頻道，馬上免費加入：https://t.me/junzhangbtc",
+      "convert_to_traditional": true
+    },
+    {
+      "name": "B站",
+      "title_max": 50,
+      "desc_max": 250,
+      "title_prefix": "",
+      "desc_prefix": "",
+      "desc_suffix": "\n\n免责申明：视频仅为个人经验分享和预测，仅供参考。市场瞬息万变，风险无处不在，交易极需谨慎。\n\n#比特币行情 #比特币行情分析 #军长 #比特币军长"
+    },
+    {
+      "name": "Facebook",
+      "title_max": 100,
+      "desc_max": 500,
+      "title_prefix": "",
+      "desc_prefix": "",
+      "desc_suffix": "\n\n最新观点分享在【比特币军长】频道，马上免费加入：https://t.me/junzhangbtc"
+    },
+    {
+      "name": "推特",
+      "title_max": 50,
+      "desc_max": 200,
+      "title_prefix": "",
+      "desc_prefix": "",
+      "desc_suffix": "\n\n最新观点分享在【比特币军长】频道：https://t.me/junzhangbtc"
+    }
+  ],
+  "output": {
+    "dir": "/Users/ai/Documents/video_pipeline/2output",
+    "filename": "视频自动上传.xlsx"
+  }
+}
